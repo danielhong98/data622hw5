@@ -32,3 +32,6 @@ Submit your Jupyter Notebook from following along with [Apache Spark for Machine
 Follow
 
 https://codelabs.developers.google.com/codelabs/cloud-dataproc-starter/
+
+https://try.jupyter.org/
+^ use this?
